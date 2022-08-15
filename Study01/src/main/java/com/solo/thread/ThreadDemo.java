@@ -17,6 +17,7 @@ public class ThreadDemo {
 
         }, "t1");
 
+        //将线程t1设置为守护线程 设置守护线程必须在该线程start()方法之前设置
         t1.setDaemon(true);
         t1.start();
 

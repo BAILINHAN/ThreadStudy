@@ -4,18 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="903271d6-09ce-4fb7-bdea-41e59eea40c1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ThreadStudy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study01/Study01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/ThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="903271d6-09ce-4fb7-bdea-41e59eea40c1" name="Changes" comment="add files">
+      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureBuildDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureMallDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureMallDemo_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureUseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/FutureAPIDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/FutureThreadPoolDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study01/Study01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Study01/Study01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Study01/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/ThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study01/target/classes/com/solo/thread/ThreadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Study01/target/classes/com/solo/thread/ThreadDemo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,15 +54,72 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="14" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager">
-    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.solo.thread.ThreadDemo" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpace\ThreadStudy\Study01\src\main\java\com\solo\thread" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CompletableFutureMallDemo">
+    <configuration name="CompletableFutureBuildDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.solo.thread.CompletableFutureBuildDemo" />
+      <module name="Study01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solo.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompletableFutureMallDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.solo.thread.CompletableFutureMallDemo" />
+      <module name="Study01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solo.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompletableFutureUseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.solo.thread.CompletableFutureUseDemo" />
+      <module name="Study01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solo.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FutureAPIDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.solo.thread.FutureAPIDemo" />
+      <module name="Study01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.solo.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FutureThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.solo.thread.FutureThreadPoolDemo" />
       <module name="Study01" />
       <extension name="coverage">
         <pattern>
@@ -75,7 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreadDemo" />
+        <item itemvalue="Application.CompletableFutureMallDemo" />
+        <item itemvalue="Application.CompletableFutureUseDemo" />
+        <item itemvalue="Application.CompletableFutureBuildDemo" />
+        <item itemvalue="Application.FutureAPIDemo" />
+        <item itemvalue="Application.FutureThreadPoolDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -88,6 +150,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656592553010</updated>
     </task>
+    <task id="LOCAL-00001" summary="add files">
+      <created>1656593322381</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656593322381</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,5 +170,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureUseDemo.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
