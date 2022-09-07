@@ -5,18 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="903271d6-09ce-4fb7-bdea-41e59eea40c1" name="Changes" comment="add files">
-      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureBuildDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureMallDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureMallDemo_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureUseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/FutureAPIDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/FutureThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureAPIDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureAPIDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureAPIDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureAPIWithHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureFastDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureWIthThreadPoolDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study01/Study01.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Study01/Study01.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Study01/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/ThreadDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/ThreadDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study01/target/classes/com/solo/thread/ThreadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Study01/target/classes/com/solo/thread/ThreadDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureMallDemo_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureMallDemo_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study01/target/classes/com/solo/thread/CompletableFutureMallDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Study01/target/classes/com/solo/thread/CompletableFutureMallDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study01/target/classes/com/solo/thread/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/Study01/target/classes/com/solo/thread/Student.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,16 +56,16 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.postfix.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\WorkSpace\ThreadStudy\Study01\src\main\java\com\solo\thread" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CompletableFutureMallDemo">
-    <configuration name="CompletableFutureBuildDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.solo.thread.CompletableFutureBuildDemo" />
+  <component name="RunManager" selected="Application.CompletableFutureFastDemo">
+    <configuration name="CompletableFutureAPIDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.solo.thread.CompletableFutureAPIDemo2" />
       <module name="Study01" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompletableFutureMallDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.solo.thread.CompletableFutureMallDemo" />
+    <configuration name="CompletableFutureAPIDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.solo.thread.CompletableFutureAPIDemo3" />
       <module name="Study01" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompletableFutureUseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.solo.thread.CompletableFutureUseDemo" />
+    <configuration name="CompletableFutureAPIWithHandler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.solo.thread.CompletableFutureAPIWithHandler" />
       <module name="Study01" />
       <extension name="coverage">
         <pattern>
@@ -105,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FutureAPIDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.solo.thread.FutureAPIDemo" />
+    <configuration name="CompletableFutureFastDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.solo.thread.CompletableFutureFastDemo" />
       <module name="Study01" />
       <extension name="coverage">
         <pattern>
@@ -118,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FutureThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.solo.thread.FutureThreadPoolDemo" />
+    <configuration name="CompletableFutureWIthThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.solo.thread.CompletableFutureWIthThreadPoolDemo" />
       <module name="Study01" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CompletableFutureMallDemo" />
-        <item itemvalue="Application.CompletableFutureUseDemo" />
-        <item itemvalue="Application.CompletableFutureBuildDemo" />
-        <item itemvalue="Application.FutureAPIDemo" />
-        <item itemvalue="Application.FutureThreadPoolDemo" />
+        <item itemvalue="Application.CompletableFutureFastDemo" />
+        <item itemvalue="Application.CompletableFutureWIthThreadPoolDemo" />
+        <item itemvalue="Application.CompletableFutureAPIDemo3" />
+        <item itemvalue="Application.CompletableFutureAPIWithHandler" />
+        <item itemvalue="Application.CompletableFutureAPIDemo2" />
       </list>
     </recent_temporary>
   </component>
