@@ -33,10 +33,7 @@ public class CompletableFutureFastDemo {
             return "Player B";
         });
 
-        CompletableFuture<String> result = playerA.applyToEither(playerB, f -> {
-
-            return f + " is winner";
-        });
+        CompletableFuture<String> result = playerA.applyToEither(playerB, f -> f + " is winner");
 
         System.out.println(Thread.currentThread().getName() + "\t" + "------" + result.join());
     }

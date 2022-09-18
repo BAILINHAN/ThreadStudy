@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="903271d6-09ce-4fb7-bdea-41e59eea40c1" name="Changes" comment="add files">
-      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureAPIDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureAPIDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureAPIDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureAPIWithHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureFastDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureWIthThreadPoolDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureMallDemo_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureMallDemo_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study01/target/classes/com/solo/thread/CompletableFutureMallDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Study01/target/classes/com/solo/thread/CompletableFutureMallDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Study01/target/classes/com/solo/thread/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/Study01/target/classes/com/solo/thread/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureFastDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Study01/src/main/java/com/solo/thread/CompletableFutureFastDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
